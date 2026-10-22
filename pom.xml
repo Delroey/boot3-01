@@ -42,6 +42,7 @@
         </dependency>
     </dependencies>
 
+    <!-- SpringBoot应用打包插件：负责把项目打成可执行的 jar 包 -->
     <build>
         <plugins>
             <plugin>
